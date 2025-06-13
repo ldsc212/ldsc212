@@ -1,8 +1,8 @@
-**Hola, soy tu amigo y docente digital...**
-
 <div align="right">
 
-# Leonardo Suárez
+# Jonathan MirCha
+
+</div>
 
 
 

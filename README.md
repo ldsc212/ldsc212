@@ -6,8 +6,6 @@
 
 </div>
 
-
-
 ### Skills
 
 <p align="left">

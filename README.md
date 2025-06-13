@@ -2,7 +2,9 @@
 
 <div align="right">
 
-# Jonathan MirCha
+# Leonardo Suárez
+
+
 
 ### Skills
 
